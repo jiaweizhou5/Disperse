@@ -29,10 +29,7 @@
     private var redName: String
 
     private var cardsIndex: [Int]
-//    private var centerDic: [Int: CGPoint]
     private var removedCard: [Int: (card: CardView, rotation: CGFloat, center: CGPoint)]
-//    private var removedCard: [Int: [((CardView), (CGFloat), (CGPoint))]]
-//    private var removedCard: [Int: [Any]]
     
     private var replayHasBeenPressed: Bool
 
@@ -149,7 +146,6 @@
         heartsImage.addGestureRecognizer(UITapGestureRecognizer(target: self, action: #selector(ViewController.hideSuitImage(_:))))
         spadesImage.addGestureRecognizer(UITapGestureRecognizer(target: self, action: #selector(ViewController.hideSuitImage(_:))))
         
-//        enterNewGame()
     }
     
     required init?(coder aDecoder: NSCoder) {
