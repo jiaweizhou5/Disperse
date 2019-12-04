@@ -2,7 +2,7 @@
  //  ViewController.swift
  //  Disperse
  //
- //  Created by Tim Gegg-Harrison, Nicole Anderson on 12/20/13.
+ //  Created by Tim Gegg-Harrison, Nicole Anderson, Jiawei Zhou on 1/20/19.
  //  Copyright © 2013 TiNi Apps. All rights reserved.
  //
  
