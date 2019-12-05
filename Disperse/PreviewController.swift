@@ -28,8 +28,8 @@ class PreviewController: UIViewController {
         let startLabel: UILabel = UILabel()
         
         // purple background
-//        self.view = UIView(frame: UIScreen.main.bounds)
-//        self.view.backgroundColor = UIColor.purple
+        //self.view = UIView(frame: UIScreen.main.bounds)
+        //self.view.backgroundColor = UIColor.purple
         
         // display four aces
         aceClub.frame = CGRect(x: centerX-CARDWIDTH*1.25, y: centerY-100, width: CARDWIDTH, height: CARDHEIGHT)
