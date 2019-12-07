@@ -1,5 +1,16 @@
-# ![](Disperse/Images/App%20Icons/disperse80.png) Disperse iOS app
-Disperse is a two-players card game
+# ![](Disperse/Images/App%20Icons/disperse80.png) Disperse iOS Game
+
+Disperse is:
+
+:iphone: an iOS
+
+:black_joker: card game
+
+:dancers: for two players
+
+:ghost: to test your luck and skill
+
+:repeat: with option to replay opponent move for your poor memory
 
 > Demonstration
 
