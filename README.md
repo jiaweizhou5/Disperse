@@ -1,7 +1,9 @@
 # ![](Disperse/Images/App%20Icons/disperse80.png) Disperse iOS app
 Disperse is a two-players card game
 
-![](Disperse/blob/master/screenshots/ScreenRecording.gif)
+> Demonstration
+
+![](https://github.com/jiaweizhou5/Disperse/blob/master/screenshots/ScreenRecording.gif)
 
 > Home page
 
